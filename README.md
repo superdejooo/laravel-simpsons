@@ -9,7 +9,9 @@ Run these commands to get started:
 ## Running project
 
 - To get server up, run `php artisan serve`
-- 
+
+App will be running on: http://127.0.0.1:8000 
+
 ## Endpoints
 
 1. All Simpsons data
