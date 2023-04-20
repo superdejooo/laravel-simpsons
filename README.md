@@ -9,6 +9,7 @@ Run these commands to get started:
 ## Running project
 
 - To get server up, run `php artisan serve`
+- To build frontend, run `npm run dev`
 
 App will be running on: http://127.0.0.1:8000 
 
